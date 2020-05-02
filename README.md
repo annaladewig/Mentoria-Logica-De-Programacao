@@ -1,2 +1,20 @@
 # Mentoria-Logica-De-Programacao
- Slides com as aulas ministradas no Programa de Mentoria de Lógica da Programação da UNIT do qual tive a honra de participar como mentora.  Foram 5 aulas de mentoria para os alunos com os assuntos, de cada aula, sorteados entre os mentores. Coube a mim, por sorteio, os assuntos: Entrada de Dados e Saída de Dados. Aqui estão os mateirais que elaborei para ministrar essas aulas e que deixo de fácil acesso aos alunos que quiserem fazer o download estudar por ele. Foi uma experiência incrível! Fico muito feliz em ter tido essa oportunidade de compartilhar conhecimentos e de ter ajudado vários alunos. Uma sensação indescritível! Muito obrigada a todos!! Aos alunos, pela participação em peso nas aulas e todo o carinho que recebemos em retorno; ao Coordenador Gleudson, pela oportunidade de participar do Programa; ao Professor Aldo Moura por todo o apoio e suporte de sempre;  e um agradecimento muito especial aos outros mentores e amigos: Lícia Verêda, Raphael Sila e Amanda Guerra, por todo esse trabalho maravilhoso! 
+----
+  Slides com as aulas ministradas no **Programa de Mentoria de Lógica da Programação** da UNIT do qual tive a honra de participar como mentora.
+ Foram 5 aulas de mentoria para os alunos com os assuntos de cada aula sorteados entre os mentores. Coube a mim, por sorteio, os assuntos:
+ 
+ **AULA 01:**
+ - [x] **Entrada de Dados**  
+ - [x] **Saída de Dados**
+ 
+  **AULA 02:**
+ - [x] **Operadores Relacionais**  
+ - [x] **Tabela-Verdade** 
+ - [x] **Operadores Lógicos**  
+ - [x] **Prioridade dos Operadores**
+ - [x] **Operadores de Incremento e Decremento**
+
+ Aqui estão os **materiais que elaborei para ministrar essas aulas e que deixo de fácil acesso aos alunos que quiserem fazer o download.**
+ Foi uma experiência incrível! Fico muito feliz em ter tido essa oportunidade de compartilhar conhecimentos e de ter ajudado vários alunos. Uma sensação indescritível! 
+ 
+ Muito obrigada a todos!! Aos alunos, pela participação em peso nas aulas e todo o carinho que recebemos em retorno; ao Coordenador Gleudson, pela oportunidade de participar do Programa; ao Professor Aldo Moura, por todo o apoio e suporte de sempre; e, um agradecimento muito especial, aos outros mentores e amigos: Lícia Verêda, Raphael Silva e Amanda Guerra, por todo esse trabalho maravilhoso! 
