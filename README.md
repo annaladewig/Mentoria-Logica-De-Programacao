@@ -17,4 +17,4 @@
  Aqui estão os **materiais que elaborei para ministrar essas aulas e que deixo de fácil acesso aos alunos que quiserem fazer o download.**
  Foi uma experiência incrível! Fico muito feliz em ter tido essa oportunidade de compartilhar conhecimentos e de ter ajudado vários alunos. Uma sensação indescritível! 
  
- Muito obrigada a todos!! Aos alunos, pela participação em peso nas aulas e todo o carinho que recebemos em retorno; ao Coordenador Gleudson, pela oportunidade de participar do Programa; ao Professor Aldo Moura, por todo o apoio e suporte de sempre; e, um agradecimento muito especial, aos outros mentores e amigos: Lícia Verêda, Raphael Silva e Amanda Guerra, por todo esse trabalho maravilhoso! 
+ Muito obrigada a todos!! Aos alunos, pela participação em peso nas aulas e todo o carinho que recebemos em retorno; ao Coordenador Gleudson, pela oportunidade de participar do Programa; ao Professor Aldo Moura, por todo o apoio e suporte de sempre; e, um agradecimento muito especial, aos outros mentores e amigos: Lícia Verêda, Raphael Silva e Amanda Guerra, por toda a troca de opiniões, todo o apoio mútuo e pela realização de um trabalho tão maravilhoso! 
