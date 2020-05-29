@@ -13,6 +13,7 @@
  - [x] **Operadores Lógicos**  
  - [x] **Prioridade dos Operadores**
  - [x] **Operadores de Incremento e Decremento**
+ - [x] **Exercícios**
 
  Aqui estão os **materiais que elaborei para ministrar essas aulas e que deixo de fácil acesso aos alunos que quiserem fazer o download.**
  Foi uma experiência incrível! Fico muito feliz em ter tido essa oportunidade de compartilhar conhecimentos e de ajudar vários alunos. Uma sensação indescritível! 
