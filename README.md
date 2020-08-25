@@ -1,6 +1,6 @@
 # mentoria-logica-de-programacao
 ----
-  Slides com as aulas ministradas no **Programa de Mentoria de Lógica da Programação** da UNIT do qual tive a honra de participar como mentora. Tivemos como base a linguagem Java e a IDE Eclipse.
+  Slides com as aulas ministradas no **Programa de Mentoria de Lógica da Programação** da UNIT do qual tive a honra de participar como mentora. Tivemos como base a linguagem Java e a utilização da IDE Eclipse.
  Foram 5 aulas de mentoria para os alunos com os assuntos de cada aula sorteados entre os mentores. Coube a mim, por sorteio, os assuntos:
  
  **AULA 01:**
